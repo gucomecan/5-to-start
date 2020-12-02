@@ -1,2 +1,13 @@
 # 5-to-start
-5 apps used as starting point of IT
+## Description: 5 apps that every developer my want to implement as begging as his path in IT
+
+## App list:
+### TODO app
+
+### Expense tracker app
+
+### Note taking app
+
+### Vowels counting app
+
+### Memory game app
